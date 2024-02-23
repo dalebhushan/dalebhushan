@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dalebhushan
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning master in computer application
-- 💞️ I’m looking to collaborate on data analysis
+- 🌱 I’m completed learning Master in Computer Application
+- 💞️ I’m looking to collaborate on System Administartion and Azure Cloud
 - 📫 u can mail me on dalebhushan200@gmail.com
 
 <!---
